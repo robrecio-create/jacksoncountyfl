@@ -3,10 +3,9 @@ export const towns = [
   { name: 'Graceville', slug: 'graceville', businesses: 0 },
   { name: 'Sneads', slug: 'sneads', businesses: 0 },
   { name: 'Cottondale', slug: 'cottondale', businesses: 0 },
-  { name: 'Grand Ridge', slug: 'grand-ridge', businesses: 0 },
-  { name: 'Malone', slug: 'malone', businesses: 0 },
+  { name: 'Campbellton', slug: 'campbellton', businesses: 0 },
+  { name: 'Greenwood', slug: 'greenwood', businesses: 0 },
 ];
-
 export const categories = [
   { name: 'Restaurants & Dining', slug: 'restaurants-dining', icon: '🍽️', count: 0 },
   { name: 'Shopping & Retail', slug: 'shopping-retail', icon: '🛍️', count: 0 },
@@ -27,7 +26,6 @@ export const categories = [
   { name: 'Accommodations', slug: 'accommodations', icon: '🏨', count: 0 },
   { name: 'Appliances & Rentals', slug: 'appliances-rentals', icon: '🔌', count: 0 },
 ];
-
 export const navLinks = [
   { label: 'Home', href: '/' },
   { label: 'Listings', href: '/listings/' },
